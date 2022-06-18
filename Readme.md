@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dariushbostan/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://dariushbostan.github.io/QR-Code-Component/)
+- Solution URL: [solution URL](https://github.com/dariushbostan/QR-Code-Component)
+- Live Site URL: [live site URL](https://dariushbostan.github.io/QR-Code-Component/)
 
 ## My process
 I started creating different parts using semantic HTML and giving each element a class. Fro styling I started with creating some variables for colors based on guidelines and imported the typeface from google fonts. removed the default css and added needed properties based on given design.
